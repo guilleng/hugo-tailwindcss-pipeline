@@ -1,0 +1,3 @@
+[submodule "hugo-tailwindcss-site"]
+	path = hugo-tailwindcss-site
+	url = https://github.com/guilleng/hugo-tailwindcss-site
