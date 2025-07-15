@@ -10,4 +10,4 @@ build:
 	@podman run --rm \
 	-v $(current_dir)/hugo-tailwindcss-site:/src:Z \
 	-p 8080:8080 \
-	hugo-tailwindcss:latest /bin/bash -c "cd /src; npm i && npm run build
+	hugo-tailwindcss:latest /bin/bash -c "cd /src; npm i && npm run build"
